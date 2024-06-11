@@ -1,5 +1,10 @@
-# tubes_pemweb
+# kesehatan_mental
+Kelompok dari Kesehatan Mental Sejati
 
-(index.php, login_proses.php, style_login.css, profile.php, register.php)
-Mohon Maaf, Github Saya tidak tau kenapa tidak mau berkontribusi dengan github lain
-Terimakasih
+Pembagian Tubes PEMWEB :
+
+Tri bagus : Mentalku(artikel) dan Pendaftaran 
+Naufal Wahyu Pradana : Index dan Login 
+Kresna : Konsultasi Online dan bagian informasi (dokter jadwal) 
+Rafael : Bagian informasi (Rehabilitas dan Profile Website) 
+Nico Davin : Direktori (Penyakit dan Obat)
