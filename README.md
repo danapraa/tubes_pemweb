@@ -3,7 +3,7 @@ Kelompok dari Kesehatan Mental Sejati
 
 Pembagian Tubes PEMWEB :
 
-Tri bagus : Mentalku(artikel) dan Pendaftaran 
+Mohammad Tri Bagus : Mentalku(artikel) dan Pendaftaran 
 Naufal Wahyu Pradana : Index dan Login 
 Kresna : Konsultasi Online dan bagian informasi (dokter jadwal) 
 Rafael : Bagian informasi (Rehabilitas dan Profile Website) 
